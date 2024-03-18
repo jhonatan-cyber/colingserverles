@@ -3,21 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coling.Api.Afiliados", "Coling.Api.Afiliados\Coling.Api.Afiliados.csproj", "{F993A69A-994B-49CA-8479-2B8C8C965CFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Coling.Api.Afiliados", "Coling.Api.Afiliados\Coling.Api.Afiliados.csproj", "{F993A69A-994B-49CA-8479-2B8C8C965CFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coling.Api.Curriculum", "Coling.Api.Curriculum\Coling.Api.Curriculum.csproj", "{29235E32-9D38-4A72-BDB3-AD8432E35DF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Coling.Api.Curriculum", "Coling.Api.Curriculum\Coling.Api.Curriculum.csproj", "{29235E32-9D38-4A72-BDB3-AD8432E35DF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coling.Api.BolsaTrabajo", "Coling.Api.BolsaTrabajo\Coling.Api.BolsaTrabajo.csproj", "{3CE4D9DD-8A7B-40C7-9456-368857ADDC19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Coling.Api.BolsaTrabajo", "Coling.Api.BolsaTrabajo\Coling.Api.BolsaTrabajo.csproj", "{3CE4D9DD-8A7B-40C7-9456-368857ADDC19}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiMicroServices", "ApiMicroServices", "{E08331C0-0C9E-4C9F-A261-29A22FB4C44B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{D0982802-3355-4632-B38D-F555D07D68E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coling.Shared", "Coling.Shared\Coling.Shared.csproj", "{01156E50-5730-45E0-8FD3-0C93878B83C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Coling.Shared", "Coling.Shared\Coling.Shared.csproj", "{01156E50-5730-45E0-8FD3-0C93878B83C3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MultiPlataforma", "MultiPlataforma", "{DA23AF98-DA32-4965-ADC3-18595199D3B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coling.Vista", "Coling.Vista\Coling.Vista.csproj", "{D58B343A-A96A-4A4E-A5B7-486FA869BE02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Coling.Vista", "Coling.Vista\Coling.Vista.csproj", "{D58B343A-A96A-4A4E-A5B7-486FA869BE02}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
